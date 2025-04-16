@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memonaamirabdulhaq&label=Profile%20views&color=0e75b6&style=flat" alt="memonaamirabdulhaq" /> </p>
 
-- 🌱 I’m currently learning **Mern**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **react,gsap**
+- 💬 Ask me about **react,gsap,nodejs**
 
 - 📫 How to reach me **amirmemona6@gmail.com**
 
